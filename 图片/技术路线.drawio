@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+  <diagram name="第 1 页" id="ZGk7HkwLTjJDeI-a8-DV">
+    <mxGraphModel dx="1411" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-4" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nU10jw8aVUYaPLCGzvWV-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="公开数据集搜集" vertex="1">
+          <mxGeometry height="50" width="120" x="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-7" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nU10jw8aVUYaPLCGzvWV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="自建数据集" vertex="1">
+          <mxGeometry height="50" width="120" x="400" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-6" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nU10jw8aVUYaPLCGzvWV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配准" vertex="1">
+          <mxGeometry height="50" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-11" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nU10jw8aVUYaPLCGzvWV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-14" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="nU10jw8aVUYaPLCGzvWV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法设计与开发" vertex="1">
+          <mxGeometry height="50" width="120" x="280" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-18" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nU10jw8aVUYaPLCGzvWV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="适用于炫光、阴影的通用短波红外-可见光融合网络" vertex="1">
+          <mxGeometry height="50" width="120" x="160" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-16" edge="1" parent="1" source="nU10jw8aVUYaPLCGzvWV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nU10jw8aVUYaPLCGzvWV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="针对雨天的短波红外-可见光融合网络" vertex="1">
+          <mxGeometry height="50" width="120" x="400" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nU10jw8aVUYaPLCGzvWV-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法评估" vertex="1">
+          <mxGeometry height="50" width="120" x="280" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
