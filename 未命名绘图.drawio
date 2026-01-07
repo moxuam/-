@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
   <diagram name="第 1 页" id="ZoaoyYN-SwgAI7aLz712">
-    <mxGraphModel>
+    <mxGraphModel dx="982" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-4" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="公开数据集搜集" vertex="1">
+          <mxGeometry height="50" width="120" x="400" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-8" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V4Jhys_0SD_qu4uhN9kB-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="配准" vertex="1">
+          <mxGeometry height="50" width="120" x="520" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-5" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="自建数据集" vertex="1">
+          <mxGeometry height="50" width="120" x="640" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-11" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V4Jhys_0SD_qu4uhN9kB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-12" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法设计与开发" vertex="1">
+          <mxGeometry height="50" width="120" x="520" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-14" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="适用于炫光、阴影的通用短波红外-可见光融合网络" vertex="1">
+          <mxGeometry height="70" width="120" x="400" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-15" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="针对雨雪天气的短波红外-可见光融合网络" vertex="1">
+          <mxGeometry height="70" width="120" x="640" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-17" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V4Jhys_0SD_qu4uhN9kB-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="模型蒸馏" vertex="1">
+          <mxGeometry height="50" width="120" x="520" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法评估" vertex="1">
+          <mxGeometry height="50" width="120" x="520" y="1110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
