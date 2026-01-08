@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
   <diagram name="第 1 页" id="ZoaoyYN-SwgAI7aLz712">
-    <mxGraphModel dx="854" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,13 +37,13 @@
         <mxCell id="V4Jhys_0SD_qu4uhN9kB-18" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V4Jhys_0SD_qu4uhN9kB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="适用于炫光、阴影的通用短波红外-可见光融合网络" vertex="1">
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="适用于炫光、阴影的通用短波红外-可见光融合模型" vertex="1">
           <mxGeometry height="70" width="120" x="400" y="930" as="geometry" />
         </mxCell>
         <mxCell id="V4Jhys_0SD_qu4uhN9kB-15" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V4Jhys_0SD_qu4uhN9kB-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V4Jhys_0SD_qu4uhN9kB-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="针对雨雪天气的短波红外-可见光融合网络" vertex="1">
+        <mxCell id="V4Jhys_0SD_qu4uhN9kB-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="针对雨雪天气的短波红外-可见光融合模型" vertex="1">
           <mxGeometry height="70" width="120" x="640" y="930" as="geometry" />
         </mxCell>
         <mxCell id="V4Jhys_0SD_qu4uhN9kB-17" edge="1" parent="1" source="V4Jhys_0SD_qu4uhN9kB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V4Jhys_0SD_qu4uhN9kB-16" value="">
