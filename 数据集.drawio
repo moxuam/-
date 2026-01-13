@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
+  <diagram name="第 1 页" id="N3WDoWUnzBmQJMn7Xl2_">
+    <mxGraphModel dx="2264" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-4" edge="1" parent="1" source="x5mwAjTZ6hV9QqhBdOxa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x5mwAjTZ6hV9QqhBdOxa-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#005CA1);strokeColor=#005CA1;" value="短波红外相机+&lt;div&gt;可见光相机&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-6" edge="1" parent="1" source="x5mwAjTZ6hV9QqhBdOxa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x5mwAjTZ6hV9QqhBdOxa-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#005CA1);strokeColor=#005CA1;" value="同步触发" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-8" edge="1" parent="1" source="x5mwAjTZ6hV9QqhBdOxa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x5mwAjTZ6hV9QqhBdOxa-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#005CA1);strokeColor=#005CA1;" value="几何校准" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-10" edge="1" parent="1" source="x5mwAjTZ6hV9QqhBdOxa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x5mwAjTZ6hV9QqhBdOxa-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#005CA1);strokeColor=#005CA1;" value="图像对采集" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="x5mwAjTZ6hV9QqhBdOxa-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#005CA1);strokeColor=#005CA1;" value="配准及预处理" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="950" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
